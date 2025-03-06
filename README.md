@@ -1,5 +1,7 @@
 # PySnake
 
+![alt text](image.png)
+
 ## Instructions
 
 PySnake is a simple snake game implemented in Python. The objective of the game is to control the snake to eat the food and grow in length without colliding with the walls or itself.
