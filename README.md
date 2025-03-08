@@ -13,8 +13,8 @@ PySnake is a simple snake game implemented in Python. The objective of the game 
 1. Launch the game by following the instructions below.
 2. Use the arrow keys to navigate the snake.
 3. Eat the food to grow longer.
-4. Avoid colliding with the walls or the snake's own body.
-5. The game ends if the snake collides with the walls or itself.
+4. Avoid colliding with the snake's own body.
+5. The game ends if the snake collides with itself.
 
 ## How to Start the Game
 
