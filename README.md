@@ -32,7 +32,7 @@ PySnake is a simple snake game implemented in Python. The objective of the game 
     ```
 4. **Run the Game**:
     ```sh
-    python main.py
+    python pysnake.py
     ```
 
 **Note**: Make sure you have Python installed on your system. And make sure you have tkinter installed globally on your system. If not, you can install it using the following command:
